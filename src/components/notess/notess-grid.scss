@@ -1,0 +1,8 @@
+.notess-grid {
+  * {
+    color: var(--text-color1);
+  }
+}
+.notess-grid::target-text {
+  color: aquamarine;
+}

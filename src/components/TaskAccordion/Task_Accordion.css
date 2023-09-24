@@ -1,0 +1,52 @@
+.accordion_task {
+  width: 60%;
+}
+.faq {
+  margin-top: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.under_part {
+  margin-top: 15px;
+  padding-top: 10px;
+  background-color: gainsboro;
+  padding-left: 15px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  height: 89px;
+  display: flex;
+  justify-content: flex-start;
+}
+.n,
+.x,
+.flex_col {
+  width: auto;
+}
+.x,
+.flex_col {
+  margin-left: auto;
+}
+.mid {
+  margin-left: 35%;
+  font-weight: 600;
+
+  font-size: 25px;
+}
+.mid_due {
+  margin-left: -7%;
+}
+.text_under {
+  margin-top: -15px;
+}
+.x_due {
+  font-size: smaller;
+}
+.btn {
+  margin-top: 10px;
+}
+.btn1 {
+  border-radius: 10px;
+  padding: 4px 4px 4px 4px;
+}
+.flex_col {
+}
